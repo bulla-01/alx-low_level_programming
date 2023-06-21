@@ -7,8 +7,9 @@
 #include <time.h>
 /* more headers goes there */
 /**
- * main - Prints a random number and states whether is positive or negative or zero
- * RETURN: Always 0(Successful)
+ * main - Prints a random number and states 
+ * whether is positive or negative or zero
+ * RETURN: Always 0.
  */
 
 /* betty style doc for function main goes there */
