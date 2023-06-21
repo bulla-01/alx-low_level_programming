@@ -6,9 +6,10 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-/*
- * Description: Prints a random number and states whether
- * is positive or negative or zero
+/**
+ * main - Prints a random number and states whether
+ * is a positive or is a negative or is zero
+ *
  * RETURN: Always 0.
  */
 
