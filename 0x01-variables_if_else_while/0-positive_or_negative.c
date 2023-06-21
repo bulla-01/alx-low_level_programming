@@ -7,7 +7,7 @@
 #include <time.h>
 /* more headers goes there */
 /*
- * Main - Prints a random number and states whether
+ * Description: Main Prints a random number and states whether
  * is positive or negative or zero
  * RETURN: Always 0.
  */
