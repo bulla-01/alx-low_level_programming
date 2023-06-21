@@ -5,10 +5,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /* more headers goes there */
 /**
- * main - Prints a random number and states 
- * whether is positive or negative or zero
+ * main - Prints a random number and states whether
+ * it is positive, negative or zero
  * RETURN: Always 0.
  */
 
