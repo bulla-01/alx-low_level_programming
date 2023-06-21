@@ -1,4 +1,4 @@
-/**
+/*
  * File: 0-positive_or_negative.c
  * Auth: Frank Sarfo
  */
@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-/**
+/*
  * Description: Prints a random number and states whether
  * is positive or negative or zero
  * RETURN: Always 0.
