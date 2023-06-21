@@ -8,9 +8,12 @@
 
 /* more headers goes there */
 /**
- * main - Prints a random number and states whether
+ * main - 0-Positive
+ *
+ * Description: 'The program prints a random number and states whether
  * it is positive, negative or zero
- * RETURN: Always 0.
+ *
+ * RETURN: Always 0 (Success)
  */
 
 /* betty style doc for function main goes there */
