@@ -5,12 +5,14 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-/**
- * main - A program to assign random number and determine if its last number is greater than 5 or zero
- * Return: 0(Success)
- */
 
 /* more headers goes there */
+/**
+ * main 1-The last Digit
+ *
+ * Description: The program that prints the last digit
+ * RETURN: Always 0 (Success)
+ */
 
 /* betty style doc for function main goes there */
 int main(void)
@@ -25,7 +27,7 @@ int main(void)
 	{
 		printf("The last digit of %d is %d and is greater than 5\n", n, x);
 	}
-	else if (x = 0)
+	else if (x == 0)
 	{
 		printf("The last digit of %d is %d and is 0\n", n, x);
 	}
