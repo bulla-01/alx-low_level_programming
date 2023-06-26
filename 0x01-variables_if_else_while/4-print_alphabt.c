@@ -8,13 +8,16 @@
 
 int main(void)
 {
-int i = 'a';
+char i;
 
-while (i <= 'z' && i != 'e' && i != 'q')
+for (i = 'a'; i <= 'z'; i++)
+
+{
+if (i != 'e' && i != 'q')
 {
 putchar (i);
-i++;
 }
 putchar ('\n');
 return (0);
+}
 }
