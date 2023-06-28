@@ -1,2 +1,1 @@
-# alx-low_level_programming
-My first program in C
+0x00.C-Hello, World
